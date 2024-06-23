@@ -8,6 +8,7 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 import Geocoder from 'react-native-geocoding'
 import { launchCamera,launchImageLibrary  } from 'react-native-image-picker';
 import Geolocation from '@react-native-community/geolocation';
+///đã chia sẻ hế lô mọi người
 const GOOGLE_MAPS_APIKEY = 'AIzaSyAXVVX57lXbBHX8KWqqCPpo5HOQXhzx3kc';
 Geocoder.init(GOOGLE_MAPS_APIKEY);
 const GgMap = () => {
